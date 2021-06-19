@@ -1,5 +1,5 @@
-# Large files
-Data/
+# Sensitive info
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
